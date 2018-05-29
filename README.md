@@ -10,9 +10,13 @@ https://www.limfinity.com/ir/
 https://www.limfinity.com/ir/data/hollins.dat.gz
 
 pr.txt: initial rank of all web pages
+
 prsmall.txt initial rank of only 4 pages(just for testing our code)
+
 pr40.txt: the result of our mapreduce after 40 iteration
+
 transition.txt: relation betweer web pages
+
 result.csv result of our mapreduce after converting pr40.txt to CSV file
 
 ## How to Run
