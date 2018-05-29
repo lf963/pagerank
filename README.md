@@ -6,6 +6,7 @@ Utilize convergence of page rank to rank all websites
 
 ## Data Source
 https://www.limfinity.com/ir/
+https://www.limfinity.com/ir/data/hollins.dat.gz
 
 ## How to Run
 Run hadoop
